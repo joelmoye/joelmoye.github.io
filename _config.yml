@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://images.credly.com/size/340x340/images/9c5b0f00-94f5-467b-9cce-63e9ae8d0364/blob.jpeg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
