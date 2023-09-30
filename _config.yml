@@ -32,13 +32,13 @@ github:
   username: joelmoye # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: joelmoye # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Joel Moye
+  email:  # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://github.com/joelmoye/joelmoye.github.io/blob/main/blob.jpg
+avatar: https://pbs.twimg.com/profile_images/913044496983654401/I_-FhkLa_400x400.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
