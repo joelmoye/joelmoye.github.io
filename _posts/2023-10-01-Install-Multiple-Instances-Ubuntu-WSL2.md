@@ -4,7 +4,6 @@ created: 2023-10-01T06:10:55 (UTC -04:00)
 categories: [Ubuntu, Linux, Command Line, Tools]
 tags: [ubuntu,wsl,wsl2,linux,windows]
 source: https://joelmoye.github.io/posts/Install-Multiple-Instances-Ubuntu-WSL2/
-author: Joel Moye
 ---
 > ## Excerpt
 > A guide to installing multiple fresh instances of Ubuntu in WSL2
@@ -128,6 +127,5 @@ wsl -d <Distribution Name>
 
 ##### Need Help? [Open a discussion thread on GitHub](https://github.com/joelmoye/joelmoye.github.io/discussions).
 
-___
 
 ### Related Posts
